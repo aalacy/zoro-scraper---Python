@@ -1,0 +1,11 @@
+venv
+.env
+
+logs/*
+state.json
+*.zip
+*.pyc
+
+info.txt
+
+*.pem
